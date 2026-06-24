@@ -1,0 +1,8 @@
+site_name: CSS Gradient Generator
+site_description: Visual CSS gradient generator (linear + radial) with live preview and copy.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md
