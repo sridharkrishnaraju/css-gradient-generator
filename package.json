@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/gradient-generator",
+  "version": "1.0.0",
+  "description": "Visual CSS gradient generator (linear + radial) with live preview and copy. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "gradient-generator.js",
+  "unpkg": "gradient-generator.js",
+  "files": ["gradient-generator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "css gradient generator", "css linear gradient", "background css gradient"],
+  "homepage": "https://sgbp.tech/tools/css-gradient-generator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
